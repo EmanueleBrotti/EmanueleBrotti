@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, i'm Ema. It's a pleasure to meet you!
+i'm a cs engineering student @ PoliMi, i like coding and learning as many things as possible!
 
-<!--
-**EmanueleBrotti/EmanueleBrotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,cs,vscode)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=ableton,arduino,raspberrypi,godot,py,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleBrotti&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+    <a href="https://www.linkedin.com/in/emanuele-brotti-3329b22b6/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
