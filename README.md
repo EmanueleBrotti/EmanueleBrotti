@@ -1,7 +1,7 @@
 ### Hi, i'm Ema. It's a pleasure to meet you!
 i'm a cs engineering student @ PoliMi, i like coding and learning as many things as possible!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,cs,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,jquery,react,redux,cs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ableton,arduino,raspberrypi,godot,py,)](https://skillicons.dev)
 
