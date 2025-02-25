@@ -1,9 +1,9 @@
 ### Hi, i'm Ema. It's a pleasure to meet you!
 i'm a cs engineering student @ PoliMi, i like coding and learning as many things as possible!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,jquery,react,redux,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,cs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,arduino,raspberrypi,godot,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,arduino,raspberrypi,godot)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleBrotti&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
